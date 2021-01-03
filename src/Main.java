@@ -8,5 +8,7 @@ public class Main {
 
      // more changes on the hour 1 branch
 
+        System.out.println("done with branch 2 merging it to master");
+
     }
 }
